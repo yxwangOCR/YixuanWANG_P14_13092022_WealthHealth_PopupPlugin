@@ -15,7 +15,7 @@ A Popup Plugin by React
 ![Demo](https://github.com/yxwangOCR/YixuanWANG_P14_13092022_WealthHealth_PopupPlugin/blob/1bc849a913832f0bf204cc826180b27bbd34c91b/src/demo/demo.gif)
 
 
-## ## How To Use
+## How To Use
 
 Install plugin in your project with npm:
 https://www.npmjs.com/package/p14-popup 
