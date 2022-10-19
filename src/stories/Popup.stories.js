@@ -17,3 +17,5 @@ stories.add('Popup', () => {
     </Popup>
   </div>)
 })
+
+/**import component into storybook, so that we can see it when we develop it */

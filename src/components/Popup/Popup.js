@@ -8,7 +8,6 @@ export const Popup = (props) => {
         <button className="close-btn" onClick={() => props.setTrigger(false)}>
           X
         </button>
-
         {props.children}
       </div>
     </div>
