@@ -1,5 +1,6 @@
 import React from "react";
 
+
 export const Popup = (props) => {
   return props.trigger ? (
     <div className="popup">
